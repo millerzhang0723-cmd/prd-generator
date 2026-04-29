@@ -1,5 +1,5 @@
-[PRD-信贷行业Agent-首页-产品需求详述.md](https://github.com/user-attachments/files/27195909/PRD-.Agent-.-.md)# PRD Generator Skill  
-# PRD 生成技能
+# PRD Generator Skill  
+# PRD生成技能
 
 `prd-generator` 用于把原型图和需求说明转成可评审的 Markdown PRD。  
 `prd-generator` turns prototypes and requirement notes into review-ready Markdown PRDs.
