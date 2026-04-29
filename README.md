@@ -70,7 +70,7 @@ Include a LICENSE and contribution guide for team collaboration and open-source 
 <img width="1920" height="1586" alt="image" src="https://github.com/user-attachments/assets/d1baf901-6c21-4b9e-8952-b2e23a86344e" />
 
 ## 提问（prompt）：
-请生成这个页面的prd
+[上传附件原型，比如原型图片或者html代码] 请生成这个页面的prd
 
 ## PRD：
 
